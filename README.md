@@ -32,17 +32,20 @@ Hi, I'm [Arvind Patel](https://arvindcs.github.io/), a iOS Developer 🚀 from I
 
 ## SwiftUI
 
-#### Card Animation
-<img src="https://i.imgur.com/bAjseX5.gif" width="475" height="400"/>
-
 #### SwiftUI DropDown
-<img src="https://github.com/Arvindcs/SwiftUI-Animation/blob/master/SwiftUI-DropDown/dropdown.gif" width="475" height="400"/>
+<img src="https://i.imgur.com/36arIIo.gif" width="475" height="400"/>
 
 #### Bar Chart in SwiftUI
 <img src="https://i.imgur.com/07dS5xA.gif" width="475" height="400"/>
 
 #### Custom Toggle Button
 <img src="https://github.com/Arvindcs/SwiftUI-Animation/blob/master/Custom-Toggle/toggle.gif" width="475" height="400"/>
+
+#### Menu Button
+<img src="https://i.imgur.com/sNEcKki.gif" width="475" height="400"/>
+
+#### Card App
+<img src="https://i.imgur.com/bAjseX5.gif" width="475" height="400"/>
 
 ## Donation 
 If you like this project and want to support me, you can do it by helping me to get a pint. ;)
