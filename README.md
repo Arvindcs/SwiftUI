@@ -36,7 +36,7 @@ Hi, I'm [Arvind Patel](https://arvindcs.github.io/), a iOS Developer 🚀 from I
 <img src="https://i.imgur.com/bAjseX5.gif" width="475" height="400"/>
 
 #### SwiftUI DropDown
-<img src="https://github.com/Arvindcs/SwiftUI-Animation/blob/master/SwiftUI-DropDown/dropdown.gif" width="475" height="400"/>
+<img src="https://i.imgur.com/36arIIo.gif" width="475" height="400"/>
 
 #### Bar Chart in SwiftUI
 <img src="https://i.imgur.com/07dS5xA.gif" width="475" height="400"/>
